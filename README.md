@@ -73,11 +73,11 @@
 
 <h3 align="left">My Most Used Languages 💛</h3> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=ayu-mirage&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=ayu-mirage&hide_border=true&show_icons=true&layout=compact)
 
 <h3 align="left">My Git Stats :bow_and_arrow:</h3> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gybranperez&theme=ayu-mirage&hide_border=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gybranperez&theme=ayu-mirage&hide_border=true&show_icons=true&count_private=true&hide=stars,issues,prs)
 
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/gybranperez/count.svg" />
