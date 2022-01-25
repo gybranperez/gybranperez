@@ -1,9 +1,8 @@
-<img align="center" src="https://ibb.co/MMg3vLN" width="100%" height="auto" alt=""/>
+<img align="center" src="https://i.ibb.co/D51SJnK/Hi-H.png" width="100%" height="auto" border="0" alt=""/>
  <!-- retro visitor counter -->
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/gybranperez/count.svg" />
  </p>
-
 <h2 align="center">Glad to see you here!</h2>
 
 <h4> I'm a Fullstack Web Developer and DevOps Engineer from Mexico :mexico:. I enjoy coding, creating, and sharing. I am always looking for opportunities to grow and enhance my talents :rocket: . </h4>
