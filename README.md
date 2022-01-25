@@ -3,23 +3,20 @@
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/NellyGonzalezB/count.svg" />
  </p>
- <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="animated" width="120px" />
-</p>
 
 <h2 align="center">Glad to see you here!</h2>
 
 <h4> I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile. I enjoy creating, learning and sharing. I am always looking for opportunities to grow and enhance my talents. </h4>
 
-- 🔭 I’m currently working **on something cool**
+- 🔭 I’m currently working **in TELCEL**
 
-- 🤓 I’m currently learning **databases and new programming languages**
+- 🤓 I’m currently learning **React & Spring Boot**
 
-- 💬 Ask me about **www.linkedin.com/in/nellymabel**
+- 💬 Ask me about **www.linkedin.com/in/gybranperez**
 
-- 📫 How to reach me **nellygonzalezb.92@gmail.com**
+- 📫 How to reach me **gybranperez@gmail.com**
 
-- ⚡ Fun facts **I looove dogs! 🐶 and I'm always smiling 😁**
+- ⚡ Fun facts **I love to draw and take long walks on the forest**
 
 
 <h3 align="left">Languages and Tools 🛠</h3>
@@ -54,13 +51,13 @@
 <h3 align="left">My Github Stats📈</h3> 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NellyGonzalezB&theme=radical&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gybranperez&theme=radical&show_icons=true)
 
 
 
 <h3 align="left">My Most Used Languages💛</h3> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NellyGonzalezB&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=radical)
 
 
 
