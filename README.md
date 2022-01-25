@@ -1,12 +1,12 @@
-<img align="center" src="https://i.ibb.co/f4TTqNs/gh-banner.png" width="1400px" alt=""/>
+<img align="center" src="https://ibb.co/MMg3vLN" width="100%" height="auto" alt=""/>
  <!-- retro visitor counter -->
  <p align="center"> 
-  <img src="https://profile-counter.glitch.me/NellyGonzalezB/count.svg" />
+  <img src="https://profile-counter.glitch.me/gybranperez/count.svg" />
  </p>
 
 <h2 align="center">Glad to see you here!</h2>
 
-<h4> I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile. I enjoy creating, learning and sharing. I am always looking for opportunities to grow and enhance my talents. </h4>
+<h4> I'm a Fullstack Web Developer and DevOps Engineer from Mexico :mexico:. I enjoy coding, creating, and sharing. I am always looking for opportunities to grow and enhance my talents :rocket: . </h4>
 
 - 🔭 I’m currently working **in TELCEL**
 
@@ -18,7 +18,7 @@
 
 - 📫 To Reach me **gybranperez@gmail.com**
 
-- ⚡ Fun facts **I love to draw and take long walks in the forest**
+- ⚡ Fun facts **I love to draw and take long walks in the forest** 🎨
 
 
 <h3 align="left">Languagues I have experience with :seedling:</h3>
