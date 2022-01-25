@@ -17,7 +17,7 @@
 - ⚡ Fun facts **I love to draw and take long walks in the forest** 🎨
 
 
-<h3 align="left">Languagues I have experience with :seedling:</h3>
+<h3 align="left">Programming Languages :seedling:</h3>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -73,7 +73,7 @@
 
 <h3 align="left">My Most Used Languages💛</h3> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=shades-of-purple)
 
 
  <p align="center"> 
