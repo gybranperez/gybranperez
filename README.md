@@ -1,7 +1,5 @@
 <img align="center" src="https://i.ibb.co/k9HhjhZ/Hi-sssH.png" width="100%" height="auto" border="0" alt=""/>
- <p align="center"> 
-  <img src="https://profile-counter.glitch.me/gybranperez/count.svg" />
- </p>
+
 <h2 align="center">Glad to see you here!</h2>
 
 <h4> I'm a Fullstack Web Developer and DevOps Engineer from Mexico :mexico:. I enjoy coding, creating, and sharing. I am always looking for opportunities to grow and enhance my talents :rocket: . </h4>
@@ -36,6 +34,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jquery](https://img.shields.io/badge/Jquery-0769ad.svg?style=for-the-badge&logo=Jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2.svg?style=for-the-badge&logo=Bulma&logoColor=white)
 
 <h3 align="left">Databases :briefcase:</h3>
 
@@ -70,13 +69,16 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gybranperez&theme=radical&show_icons=true)
 
-
+-->
 
 <h3 align="left">My Most Used Languages💛</h3> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=radical)
--->
 
+
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/gybranperez/count.svg" />
+ </p>
 
 <h2 align="center">Do you have a project in mind?💡 Do you want us to work together?📝<br>
 Or just chat and share ideas. I'd love to!👍</h2>
