@@ -1,5 +1,4 @@
-<img align="center" src="https://i.ibb.co/D51SJnK/Hi-H.png" width="100%" height="auto" border="0" alt=""/>
- <!-- retro visitor counter -->
+<img align="center" src="https://i.ibb.co/k9HhjhZ/Hi-sssH.png" width="100%" height="auto" border="0" alt=""/>
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/gybranperez/count.svg" />
  </p>
