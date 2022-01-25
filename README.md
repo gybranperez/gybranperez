@@ -12,11 +12,15 @@
 
 - 🤓 I’m currently learning **React & Spring Boot**
 
-- 💬 Ask me about **www.linkedin.com/in/gybranperez**
+- 💬 Talk to me though <a href="http://www.linkedin.com/in/gybranperez" target="_blank" rel="noopener noreferrer">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%231572B6.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+</a> or <a href="mailto:gybranperez@gmail.com" target="_blank" rel="noopener noreferrer">
+![Gmail](https://img.shields.io/badge/Gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white)
+</a> 
 
-- 📫 How to reach me **gybranperez@gmail.com**
+- 📫 Reach me **gybranperez@gmail.com**
 
-- ⚡ Fun facts **I love to draw and take long walks on the forest**
+- ⚡ Fun facts **I love to draw and take long walks in the forest**
 
 
 <h3 align="left">Languages and Tools 🛠</h3>
