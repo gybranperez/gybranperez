@@ -73,7 +73,7 @@
 
 <h3 align="left">My Most Used Languages💛</h3> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=ayu-mirage)
 
 
  <p align="center"> 
@@ -82,3 +82,5 @@
 
 <h2 align="center">Do you have a project in mind?💡 Do you want us to work together?📝<br>
 Or just chat and share ideas. I'd love to!👍</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
