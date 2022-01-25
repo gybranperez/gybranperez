@@ -68,13 +68,16 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gybranperez&theme=radical&show_icons=true)
-
+&hide=contribs,prs
 -->
 
-<h3 align="left">My Most Used Languages💛</h3> 
+<h3 align="left">My Most Used Languages 💛</h3> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybranperez&theme=ayu-mirage&hide_border=true&show_icons=true)
 
+<h3 align="left">My Git Stats :bow_and_arrow:</h3> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gybranperez&theme=ayu-mirage&hide_border=true&show_icons=true)
 
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/gybranperez/count.svg" />
@@ -83,4 +86,4 @@
 <h2 align="center">Do you have a project in mind?💡 Do you want us to work together?📝<br>
 Or just chat and share ideas. I'd love to!👍</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
