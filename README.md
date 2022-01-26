@@ -46,7 +46,7 @@
 <h3 align="left">Tools :toolbox:</h3>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85ea2d?style=for-the-badge&logo=Swagger&logoColor=85ea2d)
+![Swagger](https://img.shields.io/badge/Swagger-85ea2d?style=for-the-badge&logo=Swagger&logoColor=%23000000)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,7 +57,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075a8.svg?style=for-the-badge&logo=Rancher&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-007396.svg?style=for-the-badge&logo=Jenkins&logoColor=ff3366)
+![Jenkins](https://img.shields.io/badge/Jenkins-007396.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232f3e.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
  
