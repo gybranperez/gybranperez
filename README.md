@@ -19,7 +19,7 @@
 
 <h3 align="left">Programming Languages :seedling:</h3>
 
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=ff3366)
+![Java](https://img.shields.io/badge/Java-e6e6e6.svg?style=for-the-badge&logo=Java&logoColor=ff3366)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python%203.x-3776ab.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
