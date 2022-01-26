@@ -27,14 +27,14 @@
 
 <h3 align="left">Frameworks & Libraries :hammer_and_wrench:</h3>
 
-![Angular](https://img.shields.io/badge/Angular-ea4335.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-ab2b28.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6db33f.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jquery](https://img.shields.io/badge/Jquery-0769ad.svg?style=for-the-badge&logo=Jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-%2320232a.svg?style=for-the-badge&logo=Bulma&logoColor=white&logoColor=00d1b2)
+![Bulma](https://img.shields.io/badge/Bulma-1a1a1a.svg?style=for-the-badge&logo=Bulma&logoColor=white&logoColor=00d1b2)
 
 <h3 align="left">Databases :briefcase:</h3>
 
@@ -46,7 +46,7 @@
 <h3 align="left">Tools :toolbox:</h3>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85ea2d?style=for-the-badge&logo=Swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85ea2d?style=for-the-badge&logo=Swagger&logoColor=85ea2d)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,7 +57,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075a8.svg?style=for-the-badge&logo=Rancher&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-d24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-007396.svg?style=for-the-badge&logo=Jenkins&logoColor=ff3366)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232f3e.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
  
