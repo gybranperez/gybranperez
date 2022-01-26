@@ -19,7 +19,7 @@
 
 <h3 align="left">Programming Languages :seedling:</h3>
 
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=ff3366)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python%203.x-3776ab.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -50,7 +50,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 <h3 align="left">CI/CD related :recycle:</h3>
