@@ -47,10 +47,11 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85ea2d?style=for-the-badge&logo=Swagger&logoColor=%23000000)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/NPM-2c2255.svg?style=for-the-badge&logo=npm&logoColor=fecc00)
+![NPM](https://img.shields.io/badge/Eclipse%20IDE-%23000000.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <h3 align="left">CI/CD related :recycle:</h3>
 
