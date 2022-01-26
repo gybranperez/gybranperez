@@ -21,7 +21,7 @@
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=CodersRank&logoColor=ff3366)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python%203.x-3776ab.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python%203.x-3776ab.svg?style=for-the-badge&logo=Python&logoColor=ffe005)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599c.svg?style=for-the-badge&logo=C++&logoColor=white)
 
@@ -34,14 +34,14 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jquery](https://img.shields.io/badge/Jquery-0769ad.svg?style=for-the-badge&logo=Jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2.svg?style=for-the-badge&logo=Bulma&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-%2320232a.svg?style=for-the-badge&logo=Bulma&logoColor=white&logoColor=00d1b2)
 
 <h3 align="left">Databases :briefcase:</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-255e9c.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgresSQL-4169e1.svg?style=for-the-badge&logo=PostgresSQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 <h3 align="left">Tools :toolbox:</h3>
 
